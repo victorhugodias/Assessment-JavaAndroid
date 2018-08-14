@@ -23,3 +23,7 @@ http://infnet.educacao.ws/dadosAtividades.php
 Consuma apenas os dados do campo “descricao”
 Os dados devem ser exibidos em formato de ListView.
 Para realizar a conexão com o WebService você deverá utilizar o RetroFit
+
+![Alt text](./android1.jpg)
+![Alt text](./android2.jpg)
+![Alt text](./android3.jpg)
